@@ -1,0 +1,17 @@
+{
+  "name": "solana-liquidity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openbook-dex/openbook": "^0.0.9",
+    "@solana/spl-token": "^0.4.3",
+    "@solana/web3.js": "^1.91.4"
+  }
+}
